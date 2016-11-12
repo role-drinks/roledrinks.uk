@@ -242,3 +242,15 @@ main section .👥 a:hover {
 .💰 img {
   max-width: 100%;
 }
+
+.😭 {
+  margin: 2em auto;
+  padding: 1em 2em;
+  width: 80vw;
+  max-width: 40em;
+  border: .1em solid hsl(10, 100%, 45%);
+  border-radius: .3em;
+  box-sizing: border-box;
+  color: hsl(10, 100%, 25%);
+  background: hsl(10, 100%, 90%);
+}
